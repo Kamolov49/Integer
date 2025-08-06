@@ -1,0 +1,2 @@
+# Integer
+Misollar hamda masalalar
